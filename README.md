@@ -10,6 +10,6 @@ Limpeza completa do grafo.
 
 Tecnologias
 
-Linguagem C
-Estruturas de Dados
-Teoria dos Grafos
+Linguagem C;
+Estruturas de Dados;
+Teoria dos Grafos;
